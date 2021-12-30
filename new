@@ -1,0 +1,18 @@
+
+#create the class
+class student():
+    name=""               #attribute memeber of student
+    age=0
+# member of funtion   student class
+def display(self) :
+    print("name:",self.name,"age:",self.age)
+    
+#create of object   
+s1=student() 
+#assign class variable
+    
+s1.name="shivam"   
+s1.age=20
+ # call display
+s1.display();
+ 
